@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amanception.github.io/aman-parihar-portfolio/sitemap.xml
